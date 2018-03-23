@@ -1,0 +1,20 @@
+[   
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "admin",
+        "email": "admin@hookahtrades.com"
+    },
+    {
+        "id": 2,
+        "username": "drawmet",
+        "password": "janking",
+        "email": "drawmet.vladyslav@gmail.com"
+    },
+    {
+        "id": 3,
+        "username": "vlad",
+        "password": "123321",
+        "email": "vsezdorovo.kos@gmail.com"
+    }
+]
